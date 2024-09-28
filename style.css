@@ -37,7 +37,7 @@ span{
     padding-right: 30px;
     border: none;
     border-radius: 25px;
-    background-color: #1c2900;
+    background-color: #f1c40f;
     margin-top: 5%;
 
 }
@@ -46,7 +46,7 @@ span{
     text-decoration: none;
     font-size: 1vw;
     font-weight: 500;
-    color: white;
+    color: black;
     font-family: "Roboto Condensed", sans-serif;
 
 }
@@ -132,13 +132,13 @@ nav button{
     padding-right: 30px;
     border: none;
     border-radius: 25px;
-    background-color: #1c2900;
+    background-color: #f5a623;
 }
 nav button a{
     text-decoration: none;
     font-size: 1vw;
     font-weight: 500;
-    color: white;
+    color: black;
     font-family: "Roboto Condensed", sans-serif;
 
 }
@@ -360,11 +360,11 @@ form button{
     padding-right: 30px;
     border: none;
     border-radius: 25px;
-    background-color: #1c2900;
+    background-color: #f5a623;
     margin-top: 5%;
     font-size: 1vw;
     font-weight: 500;
-    color: white;
+    color: black;
 
 }
 
